@@ -1,6 +1,6 @@
 "# magento-api" 
-"# magento-api" 
- API for magento by using magento v2_soap and magento session (Tested with magento 1.9.2)
+
+ API for magento by using magento v2_soap and magento session (tested with magento 1.9.2)
 
 An  api for  magento  that can be used with Javascrpt base applications or by frontend developers or for a mobile application who need to connect to the store, with there app
 
